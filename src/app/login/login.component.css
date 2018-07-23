@@ -1,0 +1,25 @@
+.example-form {
+    min-width: 350px;
+    max-width: 700px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .text-center{
+    text-align: center;
+}
+.mat-card-header {
+  display: block;
+}
+
+.mat-card>.mat-card-actions:last-child{
+  margin-bottom: 15px !important;
+}
+@media (min-width:767px){
+  .login-form{
+    width: 50%;
+  margin: 35px auto 0;
+  }
+}

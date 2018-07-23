@@ -1,0 +1,17 @@
+.example-card {
+    max-width: auto;
+  }
+  
+  .example-header-image {
+    background-image: url('assets/img/shiba1.jpg');
+    background-size: cover;
+  }
+  .text-center{
+      text-align: center;
+  }
+  @media (min-width:767px){
+    .form{
+      width: 50%;
+      margin: 35px auto 0;
+    }
+  }
